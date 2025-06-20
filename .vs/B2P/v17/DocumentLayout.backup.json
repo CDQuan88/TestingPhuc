@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\TestingPhuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FPT SHOP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03177C59-69C9-47D1-B1B9-D7B5AFADF2D2}|b2p_backend\\b2p_backend.csproj|d:\\projects\\testingphuc\\b2p_backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03177C59-69C9-47D1-B1B9-D7B5AFADF2D2}|b2p_backend\\b2p_backend.csproj|solutionrelative:b2p_backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03177C59-69C9-47D1-B1B9-D7B5AFADF2D2}|b2p_backend\\b2p_backend.csproj|d:\\projects\\testingphuc\\b2p_backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03177C59-69C9-47D1-B1B9-D7B5AFADF2D2}|b2p_backend\\b2p_backend.csproj|solutionrelative:b2p_backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03177C59-69C9-47D1-B1B9-D7B5AFADF2D2}|b2p_backend\\b2p_backend.csproj|d:\\projects\\testingphuc\\b2p_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03177C59-69C9-47D1-B1B9-D7B5AFADF2D2}|b2p_backend\\b2p_backend.csproj|solutionrelative:b2p_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03177C59-69C9-47D1-B1B9-D7B5AFADF2D2}|b2p_backend\\b2p_backend.csproj|d:\\projects\\testingphuc\\b2p_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03177C59-69C9-47D1-B1B9-D7B5AFADF2D2}|b2p_backend\\b2p_backend.csproj|solutionrelative:b2p_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\components\\Layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03177C59-69C9-47D1-B1B9-D7B5AFADF2D2}|b2p_backend\\b2p_backend.csproj|d:\\projects\\testingphuc\\b2p_backend\\b2p_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03177C59-69C9-47D1-B1B9-D7B5AFADF2D2}|b2p_backend\\b2p_backend.csproj|solutionrelative:b2p_backend\\b2p_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\store\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\store\\reducer\\rootReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\services\\apiService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\utils\\axiosCustomize.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\es\\redux.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\dist\\redux.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\dist\\redux.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\FPT SHOP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\build\\Container.targets",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-20T04:03:57.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Projects\\TestingPhuc\\b2p_backend\\Dockerfile",
+              "RelativeDocumentMoniker": "b2p_backend\\Dockerfile",
+              "ToolTip": "D:\\Projects\\TestingPhuc\\b2p_backend\\Dockerfile",
+              "RelativeToolTip": "b2p_backend\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-20T04:03:11.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\TestingPhuc\\b2p_backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "b2p_backend\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\TestingPhuc\\b2p_backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "b2p_backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T03:24:06.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\TestingPhuc\\b2p_backend\\appsettings.json",
+              "RelativeDocumentMoniker": "b2p_backend\\appsettings.json",
+              "ToolTip": "D:\\Projects\\TestingPhuc\\b2p_backend\\appsettings.json",
+              "RelativeToolTip": "b2p_backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T03:24:05.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Projects\\TestingPhuc\\b2p_backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "b2p_backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Projects\\TestingPhuc\\b2p_backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "b2p_backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:24:01.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "b2p_backend.csproj",
+              "DocumentMoniker": "D:\\Projects\\TestingPhuc\\b2p_backend\\b2p_backend.csproj",
+              "RelativeDocumentMoniker": "b2p_backend\\b2p_backend.csproj",
+              "ToolTip": "D:\\Projects\\TestingPhuc\\b2p_backend\\b2p_backend.csproj",
+              "RelativeToolTip": "b2p_backend\\b2p_backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-19T16:21:29.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\index.js",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\index.js",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\index.js",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-19T16:17:20.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.js",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\App.js",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\App.js",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T07:58:39.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "store.js",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\store\\store.js",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\store\\store.js",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\store\\store.js",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\store\\store.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T08:25:53.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "rootReducer.js",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\store\\reducer\\rootReducer.js",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\store\\reducer\\rootReducer.js",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\store\\reducer\\rootReducer.js",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\store\\reducer\\rootReducer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T08:31:18.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "apiService.js",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\services\\apiService.js",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\services\\apiService.js",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\services\\apiService.js",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\services\\apiService.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T08:25:09.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Layout.js",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\components\\Layout.js",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\components\\Layout.js",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\components\\Layout.js",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\components\\Layout.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T08:24:52.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "axiosCustomize.js",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\utils\\axiosCustomize.js",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\utils\\axiosCustomize.js",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\utils\\axiosCustomize.js",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\utils\\axiosCustomize.js",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T08:23:48.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "redux.js",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\es\\redux.js",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\es\\redux.js",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\es\\redux.js",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\es\\redux.js",
+              "ViewState": "AQIAAKMBAAAAAAAAAAAAALUBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T08:07:48.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "redux.min.js",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\dist\\redux.min.js",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\dist\\redux.min.js",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\dist\\redux.min.js",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\dist\\redux.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T08:06:24.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "redux.js",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\dist\\redux.js",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\dist\\redux.js",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\dist\\redux.js",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\node_modules\\redux\\dist\\redux.js",
+              "ViewState": "AQIAAJUBAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T08:05:41.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\package.json",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\package.json",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\package.json",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T07:57:37.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "logo.svg",
+              "DocumentMoniker": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\logo.svg",
+              "RelativeDocumentMoniker": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\logo.svg",
+              "ToolTip": "D:\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\logo.svg",
+              "RelativeToolTip": "..\\..\\FU learning\\SEP490\\B2P\\b2p_frontend\\src\\logo.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAP8SURBVDhPrZRdbJNVGMd/p33b9Qtqt9HZbe2woKxsbGDYpk5DQAkTFcQPjJgY44XGEI3GmBBMNNmVNxoWojei8VITgyzGCwgRyRjJZM5JlvERt0C3dVu3rt3bD7r3bc/xYt0o4CX/5Mn5/uc85/zOgfsppZS4u6\u002Bnp\u002BdYc3PzB6VxlFIrcwGQUpLP58lms71Hjhw5PDExEbvT4S719PSMSillsVj83ygUCnJ4eFgODg7K48eP/xyJRDaVr7eWNwC6uroOd3R0VEsFBSOFzF1GZL7DmP0Rc/o3AP6dNNne1oHT6Qzb7fb6qampy4lEInGPob39NdHY2n74aq6i\u002BvpUP2sL3\u002BCc/ZZC7AyITUgVpBC/yMQcNDzSjs/n01wu18bKysrglStXLqTT6fSyoRC4H93nCz33zudrAqFn2iI2\u002B66aY3hnTjM8vpVf9A8ZqzjElta9yLlRMqabC0M3GBoaQtd1q8/ni5w/f/6nVCoV0wAczXu8Dfvf/\u002BTp7fXvvrxlzLVdfkriWo7\u002B7FGuh19kwnBycWyGrHmDV/xNNLZuoB4/hmHg8XgYGRlZzdIC4O96r7Mjsu6Ng00Da9tyH4vF4TxTopvcugPYsuA2C4TW13Jprkhf8iHEmhDV1VUEAgG8Xi9Wq3WVAgtAQ8Bz4IXG0aoW8ysxP2jiavmBLY8d4OC2AK\u002B3VJOZnsNnr0C4nQwmbMznLaX9KChDC0AD2Lwu9dTj3u\u002BdmXEHX5ufMfmHDbPwD1IpFJJ8UaNKs2Cz2xifWyKZNqhd60ApQNxmFECrDWj2t1pO19uiY\u002BKc5QvlbtstwsrC8mxKpgrzloFhmCwVChSUKg0r1F0PQJu8GtqfHP\u002B1YiDzthoN7in\u002BefGadWuNSygpUUohlQIUQirqkLQGPfg99pLZna8IQFN67NXZm3VL54o7MbNKczttls5wtdhW58br0NDzJgM3kkSTOVCKoM\u002BFx6GtJLB8jmXS8pP5zmS24vf\u002BGW1zSEs11ITrxJnpHGeuz6IME82uUfRUkSy6WIgv8KxFYLPc/gJWUl6RpbAonHuPLh2Kzcx/eW10PHFzOq0M9xoIrUdsfJilugbiShCPJwg7CjzfXIPdunLL98p69E38Ox5Mhi/1X\u002B1rCNjMTMps1DPSPRlfJDGf4lZiAVt6kaYHND7auYFKtx2EWEVGCEE0GuXUqVMndF2PWdfXMhCbYVfEPrujLt43Eqhvde1\u002B4slGv63IJq9Ge62bfU1\u002BXtpai8OmLW\u002BjhAuAsFiIRifo7e09oev6vV9Zd3d3n5RSmqZZCkOaxnIYq7G0WpqmKc\u002BePSuDwWAbK2CXSyn118mTJztL9WV0SgiV95Wzp\u002Bv638DCnU73Sf8B3E0j/55GTsEAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-18T07:57:28.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
